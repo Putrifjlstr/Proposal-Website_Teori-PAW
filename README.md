@@ -11,5 +11,5 @@ Dengan dibuat website yang memuat pendaftaran, reservasi bagi para pasien agar K
 ## Use Case
 ![Hospital Reservation System Use Case Diagram](https://user-images.githubusercontent.com/101171434/190048715-8cfc7bb0-53eb-4478-bc8c-fadb7032d4a2.jpg)
 
-## UX Wireframe
+## Mockup
 ![584bf5cba82b68f95692f5b9407b6743](https://user-images.githubusercontent.com/101171434/190305857-5cf1fb78-ef0b-46df-9192-c1d5b2a11b77.jpg)
